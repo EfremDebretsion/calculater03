@@ -1,5 +1,5 @@
 public class bb {
-
+//this is a very useful method
     public static double add(double n1 , double n2){
         return n1 + n2;
     }
